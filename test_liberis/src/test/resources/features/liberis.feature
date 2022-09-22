@@ -1,6 +1,6 @@
 Feature: Type of Partner selection section
 
-  Scenario: Verification of Reset button
+  Scenario: Verify Type of partner options and validation for Get Demo
     Given Launch the application
     When Click on the Get Demo button
     Then Verify user has landed on Partner Selection page
